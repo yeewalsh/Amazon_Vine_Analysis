@@ -18,17 +18,17 @@ Vine Review Stats:
 * 647 5-star reviews
 * 5-star reviews made up 45%
 
-![Total Vine Reviews]("Resources/total_vine_reviews.PNG)
+![Total Vine Reviews](Resources/total_vine_reviews.PNG)
 
 Organic (non-vine) Review Stats:
 * 90768 reviews total
 * 44104 5-star reviews
 * 5-star reviews made up 49%
 
-![Total Non Vine Reviews]("Resources/total_non_vine_reviews.PNG)
+![Total Non Vine Reviews](Resources/total_non_vine_reviews.PNG)
 
 Final Analysis:
-![Vine Analysis]("Resources/Vine_Analysis_Results.PNG)
+![Vine Analysis](Resources/Vine_Analysis_Results.PNG)
 
 ## Summary
 
