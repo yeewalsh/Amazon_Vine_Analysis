@@ -1,3 +1,7 @@
+# large file
+vine_table.csv
+Resources/vine_table.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
